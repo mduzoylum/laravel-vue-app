@@ -2,4 +2,4 @@
 
 ## Laravel Vue
 
-CRUD işlenmlerinin gerçekleştirildiği Backend tarafında **Laravel**, Frontend tarafında **Vue** ve Database tarafında **MongoDb** kullanılmıştır.
+CRUD işlemlerinin gerçekleştirildiği projede Backend tarafında **Laravel**, Frontend tarafında **Vue** ve Database tarafında **MongoDb** kullanılmıştır.
